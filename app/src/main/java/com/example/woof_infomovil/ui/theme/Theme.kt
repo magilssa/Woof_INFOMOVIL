@@ -107,7 +107,7 @@ fun Woof_INFOMOVILTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        shapes = Shapes(),
+        shapes = Shapes,
         typography = Typography,
         content = content
     )
